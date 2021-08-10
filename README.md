@@ -1,7 +1,6 @@
 
 ### Hi there 👋
 
-![Cover](https://github.com/kevin-cp/kevin-cp/blob/main/external-content.duckduckgo.com.png)
 ### Kevin Capitao Peixoto
 💻 Junior web developper 🇫🇷 Based in France 🎮 Gaming
 
