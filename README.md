@@ -5,6 +5,7 @@
 ### Kevin Capitao Peixoto
 💻 Junior web developper 🇫🇷 Based in France 🎮 Gaming
 
+![kevin-cp github stats](https://github-readme-stats.vercel.app/api?username=kevin-cp&show_icons=true&hide_border=true)
 <!--
 **kevin-cp/kevin-cp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
