@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Kevin Capitao Peixoto
- Junior web developper 🇫🇷
+💻 Junior web developper 🇫🇷 Based in France 🎮 Gaming
 
 <!--
 **kevin-cp/kevin-cp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
