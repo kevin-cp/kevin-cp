@@ -5,6 +5,8 @@
 💻 Junior web developper 🇫🇷 Based in France 🎮 Gaming
 
 ![kevin-cp github stats](https://github-readme-stats.vercel.app/api?username=kevin-cp&show_icons=true&hide_border=true)
+
+<a href=”https://www.linkedin.com/in/kevin-capitao-peixoto/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <!--
 **kevin-cp/kevin-cp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
